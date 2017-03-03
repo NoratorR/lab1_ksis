@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\01\lab1_server\lab1_server\bin\Debug\lab1_server.exe.config
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\01\lab1_server\lab1_server\bin\Debug\lab1_server.exe
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\01\lab1_server\lab1_server\bin\Debug\lab1_server.pdb
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\01\lab1_server\lab1_server\obj\Debug\lab1_server.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\01\lab1_server\lab1_server\obj\Debug\lab1_server.exe
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\01\lab1_server\lab1_server\obj\Debug\lab1_server.pdb
